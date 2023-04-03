@@ -1,4 +1,5 @@
 <script>
+//import pc from "./views/pc.vue";
 import AppHeader from "@/components/AppHeader.vue";
 
 export default {

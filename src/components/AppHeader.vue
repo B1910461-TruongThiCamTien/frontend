@@ -9,5 +9,6 @@
                 </router-link>
             </li>
         </div>
+        <a href="pc" class="navbar-brand">Bảng lương</a>
     </nav>
 </template>

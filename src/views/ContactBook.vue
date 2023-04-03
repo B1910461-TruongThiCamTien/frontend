@@ -137,6 +137,10 @@ export default {
     },
     mounted() {
         this.refreshList();
+        // let user= localStorage.getItem('user-info');
+        // if(!user){
+        //     this.$router.push({name: 'SignUp'});
+        // }
     }
 };
 </script>
